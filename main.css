@@ -1,7 +1,7 @@
 body {
-  background-color: pink;
+  background-image: linear-gradient(to bottom right, #fba7e2, #cc57fa);
+  height: 100vh;
 }
-
 h1 {
   font-size: 3em;
   text-align: center;
